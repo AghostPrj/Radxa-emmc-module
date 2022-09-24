@@ -35,16 +35,16 @@ emmc module pcb design for radxa 3/4/5
 
 ## 物料表(BOM)
 
-| 版本(version) |                    原理图(schematic)                     |
+| 版本(version) |                       物料表(BOM)                        |
 |:-----------:|:-----------------------------------------------------:|
-|    V1.1     | [emmc-module-v1.1-sch](./bom/emmc-module-V1.1-bom.md) |
-|    V2.0     | [emmc-module-v2.0-sch](./bom/emmc-module-V2.0-bom.md) |
+|    V1.1     | [emmc-module-v1.1-bom](./bom/emmc-module-V1.1-bom.md) |
+|    V2.0     | [emmc-module-v2.0-bom](./bom/emmc-module-V2.0-bom.md) |
 
 ## 生产文件(factory files)
 
 gerber以及钻孔文件(gerber and drill files)
 
-| 版本(version) |                    原理图(schematic)                    |
+| 版本(version) |                    生产文件(factory files)                    |
 |:-----------:|:----------------------------------------------------:|
 |    V1.1     | [emmc-module-v1.1](./factory-files/emmc-module-v2.0) |
 |    V2.0     | [emmc-module-v2.0](./factory-files/emmc_module-V1.1) |

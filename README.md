@@ -44,10 +44,10 @@ emmc module pcb design for radxa 3/4/5
 
 gerber以及钻孔文件(gerber and drill files)
 
-| 版本(version) |                    生产文件(factory files)                    |
+| 版本(version) |                 生产文件(factory files)                  |
 |:-----------:|:----------------------------------------------------:|
-|    V1.1     | [emmc-module-v1.1](./factory-files/emmc-module-v2.0) |
-|    V2.0     | [emmc-module-v2.0](./factory-files/emmc_module-V1.1) |
+|    V1.1     | [emmc-module-v1.1](./factory-files/emmc_module-V1.1) |
+|    V2.0     | [emmc-module-v2.0](./factory-files/emmc-module-v2.0) |
 
 ### 生产工艺需求(factory capacity)
 

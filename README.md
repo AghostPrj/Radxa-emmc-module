@@ -20,11 +20,12 @@ emmc module pcb design for radxa 3/4/5
 
 ## 版本(version)
 
-| 版本(version) | 更新日期(Date) |                                                                更新说明(update desc.)                                                                |
-|:-----------:|:----------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     v1      | 2021.11.17 |                                                             第一版<p>the first version                                                              |
-|    v1.1     | 2022.05.09 |                                                           修复过孔未盖油<p>fix via not tented                                                           |
-|    V2.0     | 2022.09.24 | 重新设计，修复焊盘过小导致的焊接难度增加，取消不必要的电容焊盘，将电容封装改为0402<p> redesign pcb, reduce soldering difficulty, remove optional capacity, use 0402 cap instead of 0603 |
+| 版本(version) | 更新日期(Date) |                                                                              更新说明(update desc.)                                                                              |
+|:-----------:|:----------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|     v1      | 2021.11.17 |                                                                           第一版<p>the first version                                                                            |
+|    v1.1     | 2022.05.09 |                                                                         修复过孔未盖油<p>fix via not tented                                                                         |
+|    V2.0     | 2022.09.24 |               重新设计，修复焊盘过小导致的焊接难度增加，取消不必要的电容焊盘，将电容封装改为0402<p> redesign pcb, reduce soldering difficulty, remove optional capacity, use 0402 cap instead of 0603               |
+|    V2.1     | 2022.10.01 | 重新设计pcb，将贴片电阻封装改为0402，并且将所有非emmc芯片的器件移动到底面，缩短了板子长度<p> redesign pcb, use 0402 resistance instead of 0603, move all component except emmc chip to bottom side, and reduce size |
 
 ## 原理图(schematic)
 
@@ -32,6 +33,7 @@ emmc module pcb design for radxa 3/4/5
 |:-----------:|:--------------------------------------------------:|
 |    V1.1     |   [emmc-module-v1.1-sch](./images/sch-v1.1.png)    |
 |    V2.0     | [emmc-module-v2.0-sch](./sch/emmc-module-V2.0.pdf) |
+|    V2.1     |                    same as V2.0                    |
 
 ## 物料表(BOM)
 
@@ -39,6 +41,7 @@ emmc module pcb design for radxa 3/4/5
 |:-----------:|:-----------------------------------------------------:|
 |    V1.1     | [emmc-module-v1.1-bom](./bom/emmc-module-V1.1-bom.md) |
 |    V2.0     | [emmc-module-v2.0-bom](./bom/emmc-module-V2.0-bom.md) |
+|    V2.1     | [emmc-module-v2.1-bom](./bom/emmc-module-V2.1-bom.md) |
 
 ## 生产文件(factory files)
 
@@ -48,6 +51,7 @@ gerber以及钻孔文件(gerber and drill files)
 |:-----------:|:----------------------------------------------------:|
 |    V1.1     | [emmc-module-v1.1](./factory-files/emmc_module-V1.1) |
 |    V2.0     | [emmc-module-v2.0](./factory-files/emmc-module-v2.0) |
+|    V2.0     | [emmc-module-v2.1](./factory-files/emmc-module-v2.1) |
 
 ### 生产工艺需求(factory capacity)
 

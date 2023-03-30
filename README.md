@@ -3,13 +3,14 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Radxa-emmc-module](#radxa-emmc-module)
-  - [版本(version)](#%E7%89%88%E6%9C%ACversion)
-  - [原理图(schematic)](#%E5%8E%9F%E7%90%86%E5%9B%BEschematic)
-  - [物料表(BOM)](#%E7%89%A9%E6%96%99%E8%A1%A8bom)
-  - [生产文件(factory files)](#%E7%94%9F%E4%BA%A7%E6%96%87%E4%BB%B6factory-files)
-    - [生产工艺需求(factory capacity)](#%E7%94%9F%E4%BA%A7%E5%B7%A5%E8%89%BA%E9%9C%80%E6%B1%82factory-capacity)
-    - [生产文件使用说明](#%E7%94%9F%E4%BA%A7%E6%96%87%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
-    - [factory files usage](#factory-files-usage)
+    - [空板购买(china mainland only)](#%E7%A9%BA%E6%9D%BF%E8%B4%AD%E4%B9%B0china-mainland-only)
+    - [版本(version)](#%E7%89%88%E6%9C%ACversion)
+    - [原理图(schematic)](#%E5%8E%9F%E7%90%86%E5%9B%BEschematic)
+    - [物料表(BOM)](#%E7%89%A9%E6%96%99%E8%A1%A8bom)
+    - [生产文件(factory files)](#%E7%94%9F%E4%BA%A7%E6%96%87%E4%BB%B6factory-files)
+        - [生产工艺需求(factory capacity)](#%E7%94%9F%E4%BA%A7%E5%B7%A5%E8%89%BA%E9%9C%80%E6%B1%82factory-capacity)
+        - [生产文件使用说明](#%E7%94%9F%E4%BA%A7%E6%96%87%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+        - [factory files usage](#factory-files-usage)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -17,6 +18,12 @@
 
 RADXA 3/4/5 emmc模块PCB    
 emmc module pcb design for radxa 3/4/5
+
+## 空板购买(china mainland only)
+
+```text
+【闲鱼】https://m.tb.cn/h.UrNqrN2?tk=mK05d9M5NCH CZ3457 「我在闲鱼发布了【radxa emmc模块空板】」
+```
 
 ## 版本(version)
 

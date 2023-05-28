@@ -22,7 +22,7 @@ emmc module pcb design for radxa 3/4/5
 ## 空板购买(china mainland only)
 
 ```text
-【闲鱼】https://m.tb.cn/h.UDbqbFl?tk=A1zkdLFqYIi CZ3457 「我在闲鱼发布了【radxa emmc模块空板】」
+【闲鱼】https://m.tb.cn/h.UxpOb7b?tk=buPTdLFrgtw CZ3457 「我在闲鱼发布了【radxa emmc模块空板】」
 ```
 
 ## 版本(version)

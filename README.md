@@ -16,8 +16,8 @@
 
 # Radxa-emmc-module
 
-RADXA 3/4/5 emmc模块PCB    
-emmc module pcb design for radxa 3/4/5
+RADXA 3/4/5 OrangePi 5 Plus emmc模块PCB    
+emmc module pcb design for radxa 3/4/5 and OrangePi 5 Plus
 
 ## 空板购买(china mainland only)
 
